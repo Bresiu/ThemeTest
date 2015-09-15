@@ -1,0 +1,9 @@
+<resources>
+
+	<style name="BrandButtonStyle"
+		parent="Widget.AppCompat.Button.Colored">
+		<item name="colorButtonNormal">@android:color/black</item>
+		<item name="android:textColor">@android:color/white</item>
+	</style>
+
+</resources>
